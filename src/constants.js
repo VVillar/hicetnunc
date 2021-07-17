@@ -1,3 +1,4 @@
+//Agregando comentario
 let LANGUAGE = {}
 export const setLanguage = (data) => (LANGUAGE = data)
 export const getLanguage = () => LANGUAGE
